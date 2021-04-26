@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams. Journal of Geophysical Research-Atmospheres"
 collection: publications
-permalink: /publication/Liu et al 2021
+permalink: 
 excerpt: ''
 date: 
-venue: 'Journal 1'
-paperurl: 'https://www.essoar.org/doi/10.1002/essoar.10506595.1'
+venue: ''
+paperurl: ''
 citation: 'Liu, X., Grise, K. M., Schmidt, D. F., & Davis, R. E. (Submitted). Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams. Journal of Geophysical Research-Atmospheres.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
