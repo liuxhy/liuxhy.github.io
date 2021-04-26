@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : XhuiyuLiu
+  username               : XHuiyuLiu
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinhuiyu Liu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at UVa (2019.8 - current)"
+  bio              : "Ph.D. student in Atmospheric Sciences (2019.8 - current)"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : 
