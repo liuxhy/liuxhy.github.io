@@ -1,5 +1,5 @@
 ---
-title: "Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams. Journal of Geophysical Research-Atmospheres"
+title: "Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams."
 collection: publications
 permalink: 
 excerpt: ''
