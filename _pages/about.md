@@ -14,4 +14,4 @@ Prior to joining UVa, I obtained my bachelor degree from the College of Atmosphe
 
 Research Interest
 ------
-I have a broad interest in our Earth's climate system, especially the large-scale atmospheric circulation and clouds.
+I have a broad interest in our Earth's climate system, especially the large-scale atmospheric circulation and clouds. My current research mainly focuses on understanding possible mechanisms controlling variabilities of the large-scale atmospheric circulation (particularly jet streams) both in current climate and under greenhouse gas forcing and examining how these processes are represented in climate models. 
