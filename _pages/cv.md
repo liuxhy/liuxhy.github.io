@@ -22,7 +22,7 @@ Research experience
 
 * June 2018 - May 2019: Undergrad Final Year Thesis
   * Lanzhou University
-  * Aerosol properties in East China
+  * Aerosol properties in East Asia
 
 * September 2017 - April 2018: Third Year Project
   * University of Reading
