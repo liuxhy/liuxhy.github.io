@@ -19,6 +19,7 @@ Research experience
 ======
 * August 2019 - PRESENT: Research Assistant
   * University of Virginia
+  * Interannual jet stream variability
 
 * June 2018 - May 2019: Undergrad Final Year Thesis
   * Lanzhou University
