@@ -1,7 +1,7 @@
 ---
 title: 'Interannual Varibility of polar front jet and subtropical jet'
 date: 2021-03-26
-permalink: /research/
+permalink: /research
 
 ---
 
