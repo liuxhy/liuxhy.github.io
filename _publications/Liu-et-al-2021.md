@@ -10,4 +10,4 @@ citation: 'Liu, X., Grise, K. M., Schmidt, D. F., & Davis, R. E. (Submitted). Un
 ---
 
 
-[Download paper here](http://liuxhy.github.io/files/Liu2021.pdf)
+[Download paper here](http://liuxhy.github.io/files/2021JD034876_Merged_PDF.pdf)
