@@ -1,5 +1,5 @@
 ---
-title: "Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams."
+title: "Regional characteristics of variability in the Northern Hemisphere wintertime polar front jet and subtropical jet in observations and CMIP6 models"
 collection: publications
 permalink: 
 excerpt: ''
