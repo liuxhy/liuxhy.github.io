@@ -10,4 +10,4 @@ citation: 'Liu, X., Grise, K. M., Schmidt, D. F., & Davis, R. E. 2021. Regional 
 ---
 
 
-[Download paper here](http://liuxhy.github.io/files/Liu et al 2021.pdf)
+[Download paper here](http://liuxhy.github.io/files/2021JD034876.pdf)
