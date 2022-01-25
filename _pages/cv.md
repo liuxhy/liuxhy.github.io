@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Atmospheric Sciences, Lanzhou University, 2019
+* Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2019-2024 (expected)
+* M.S in computer science, Georgia Institute of Technology, 2022-2024 (expected)
+* B.S in Atmospheric Sciences, Lanzhou University, 2019
 * Visiting Student in Meteorlogy, University of Reading, 2017-2018
-* Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2024 (expected)
+* 
 
 Research experience
 ======
