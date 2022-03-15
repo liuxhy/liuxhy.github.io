@@ -15,7 +15,6 @@ Education
 * M.S in computer science, Georgia Institute of Technology, 2022-2024 (expected)
 * B.S in Atmospheric Sciences, Lanzhou University, 2019
 * Visiting Student in Meteorlogy, University of Reading, 2017-2018
-* 
 
 Research experience
 ======
