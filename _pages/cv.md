@@ -43,8 +43,8 @@ Teaching
  
 Awards
 ======
-* NASA (2022-2024) & FINESST Fellowship (Amount: \$100000; 15.7\% selection rate)
-* University of Virginia (2022) & Jay Zieman Research Publication Award
-* China Scholarship Council (2017-2018) &  Outstanding Undergraduate Exchange Scholarship
-* Lanzhou University (2017) & Second Prize in Weather Forecasting Competition
-* Lanzhou University (2016) & Excellent Student
+* NASA FINESST Fellowship (2022 - 2024, Amount: \$100000; 15.7\% selection rate)
+* Jay Zieman Research Publication Award (University of Virginia, 2022)
+* Outstanding Undergraduate Exchange Scholarship (China Scholarship Council, 2017 - 2018)
+* Second Prize in Weather Forecasting Competition (Lanzhou University, 2017)
+* Excellent Student (Lanzhou University, 2016)
