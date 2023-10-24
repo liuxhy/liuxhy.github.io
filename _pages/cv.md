@@ -26,6 +26,22 @@ Teaching
 * August 2019 - May 2022: Teaching Assistant, University of Virginia
   * Lecture teaching assistant: EVSC 3300 Atmosphere and Weather
   * Instructor of record: EVSC 3301 Atmosphere and Weather Lab
+* Jan 2021: Teaching Assistant, University of Virginia
+  * J-term Course - Pandemics Beyond the Headlines: COVID-19
+ 
+Selected Conference Presentations
+======
+* {\bf Liu, X.} \& Grise, K. M. Implications of warm pool bias in CMIP6 models on the Nothern Hemisphere wintertime subtropical jet and precipitation, DynVar/SNAP workshop, Oct 2023, Munich, Germany (Oral)
+
+* {\bf Liu, X.} \& Grise, K. M. Emergent constraint on future changes of the Northern Hemisphere wintertime subtropical jet, American Geophysical Union Fall Meeting 2022, Dec 2022, Chicago, IL (poster)
+
+* {\bf Liu, X.}, Grise, K. M., Schmidt, D. F., \& Davis, R. E. Regional characteristics of variability in the Northern Hemisphere wintertime polar front jet and subtropical jet in observations and CMIP6 models, 23nd Conference on Atmospheric and Oceanic Fluid Dynamics, June 2022, Breckenridge, CO (poster)
+
+* {\bf Liu, X.}, Grise, K. M., Schmidt, D. F., \& Davis, R. E. Regional characteristics of variability in the Northern Hemisphere wintertime polar front jet and subtropical jet in observations and CMIP6 models, American Geophysical Union Fall Meeting 2021, Dec 2021, New Orleans, LA (eLightning talk)
+
+* {\bf Liu, X.} \& Grise, K. M. Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams, American Geophysical Union Fall Meeting 2020, Dec 2020, virtual (poster)
+
+* {\bf Liu, X.} \& Zeng, Z. -C. Mapping diurnal aerosol properties in East Asia from Deep Space Climate Observatory, 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Aug 2019, Japan (oral presentation)
  
 Awards
 ======
