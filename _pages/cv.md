@@ -37,6 +37,14 @@ Publications
   
 Teaching
 ======
-* August 2019 - PRESENT: Teaching Assistant
+* August 2019 - May 2022: Teaching Assistant
   * University of Virginia
   * EVSC3301 Atmosphere and Weather Lab
+ 
+Awards
+======
+* NASA (2022-2024) & FINESST Fellowship (Amount: \$100000; 15.7\% selection rate)
+* University of Virginia (2022) & Jay Zieman Research Publication Award
+* China Scholarship Council (2017-2018) &  Outstanding Undergraduate Exchange Scholarship
+* Lanzhou University (2017) & Second Prize in Weather Forecasting Competition
+* Lanzhou University (2016) & Excellent Student
