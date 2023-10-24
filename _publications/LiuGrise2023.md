@@ -10,4 +10,4 @@ citation: 'Liu, X and Grise, K. M. (2023). Implications of Warm Pool Bias in CMI
 ---
 
 
-[Download paper here](http://liuxhy.github.io/files/Geophysical Research Letters - 2023 - Liu.pdf)
+[Download paper here](http://liuxhy.github.io/files/GRL2023-Liu.pdf)
