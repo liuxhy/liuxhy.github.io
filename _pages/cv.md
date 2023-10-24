@@ -41,7 +41,7 @@ Selected Conference Presentations
 
 * Liu, X. & Grise, K. M. Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams, American Geophysical Union Fall Meeting 2020, Dec 2020, virtual (poster)
 
-* Liu, X. & Zeng, Z. -C. Mapping diurnal aerosol properties in East Asia from Deep Space Climate Observatory, 2019 IEEE International Geoscience and Remote Sensing Symposium, Yokohama, Aug 2019, Japan (oral)
+* Liu, X. & Zeng, Z. -C. Mapping diurnal aerosol properties in East Asia from Deep Space Climate Observatory, 2019 IEEE International Geoscience and Remote Sensing Symposium, Aug 2019, Yokohama, Japan (oral)
  
 Awards
 ======
