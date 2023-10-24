@@ -5,6 +5,10 @@ excerpt: "This is a page not in th emain menu"
 author_profile: true
 ---
 
+Implications of Warm Pool Bias in CMIP6 Models on the Northern Hemisphere Wintertime Subtropical Jet and Precipitation
+======
+Although the multi-model average compares well with observations, individually most of the latest climate models do not simulate a realistic size of the Indo-Pacific Warm Pool in the present-day climate. This study explores the implications of this warm pool size bias in climate models in Northern Hemisphere winter. The warm pool size bias in phase 6 of the Coupled Model Intercomparison Project models is related to the subtropical jet and precipitation distribution, both in the present-day climate and in response to climate change, through extratropical Rossby wave trains and tropical circulation pathways. Based on these relationships, emergent constraints are developed to observationally constrain the future subtropical jet response over Asia and the Atlantic Ocean and precipitation response over North and Central America, which can help to reduce uncertainty in future projections of these features. Thus, accurate model simulation of the warm pool in the present-day climate is important for future projections of the subtropical jet and precipitation.
+
 Regional characteristics of variability in the Northern Hemisphere wintertime polar front jet and subtropical jet in observations and CMIP6 models
 ======
 Variability in the position and strength of the subtropical jet (STJ) and polar front jet (PFJ) streams has important implications for global and regional climate.  Previous studies have related the position and strength of the STJ to tropical thermodynamic processes, whereas the position and strength of the PFJ are more associated with mid-latitude eddies. These conclusions have largely resulted from studies using idealized models.  
