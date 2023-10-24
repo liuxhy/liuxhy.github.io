@@ -23,9 +23,8 @@ Publications
   
 Teaching
 ======
-* August 2019 - May 2022: Teaching Assistant
-  * University of Virginia
-  * EVSC3301 Atmosphere and Weather Lab
+* August 2019 - May 2022: Teaching Assistant, University of Virginia
+  * Lecture teaching assistant and lab instructor: EVSC 3300/3301 Atmosphere and Weather Lab
  
 Awards
 ======
