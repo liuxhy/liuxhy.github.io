@@ -4,6 +4,9 @@ title: "Research"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 ---
+Vertically Varying Cloud Responses to Southern Hemisphere Jet Shifts and Their Role in Southern Annular Mode Persistence in Observations and CMIP6 Models
+======
+This study investigates how clouds and their atmospheric radiative effects respond to meridional shifts in the Southern Hemisphere (SH) mid-latitude jet, represented by the Southern Annular Mode (SAM), using reanalysis data, CloudSat/CALIPSO observations, and CMIP6 models. Consistent with previous studies, poleward jet shifts displace storm-track clouds, creating lower tropospheric radiative heating anomalies poleward of the mean jet latitude and cooling anomalies on the equatorward side of the mean jet latitude where large-scale subsidence increases low cloud fraction. To investigate whether these radiative heating anomalies affect SAM persistence, the e-folding timescale of the SAM in CMIP6 models is analyzed. Models that simulate low cloud responses more realistically show less SAM persistence, aligning more closely with observations. Our results based on CMIP6 models agree with a recent idealized modeling study and suggest that atmospheric cloud radiative heating anomalies, induced by the poleward jet shift, contribute to a reduction in SAM persistence.
 
 Implications of Warm Pool Bias in CMIP6 Models on the Northern Hemisphere Wintertime Subtropical Jet and Precipitation
 ======
