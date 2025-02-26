@@ -49,6 +49,7 @@ Selected Conference Presentations
  
 Awards
 ======
+* Best Student Poster Presentation Award (2nd place; American Meteorological Society, 2024)
 * NASA FINESST Fellowship (2022 - 2025; amount: \$100000; 15.7% selection rate)
 * Jay Zieman Research Publication Award (University of Virginia, 2022)
 * Outstanding Undergraduate Exchange Scholarship (China Scholarship Council, 2017 - 2018)
