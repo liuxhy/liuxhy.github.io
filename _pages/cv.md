@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2019-2024 (expected)
+* Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2019-2025 (expected)
 * B.S in Atmospheric Sciences, Lanzhou University, 2019
 * Visiting Student in Meteorology, University of Reading, 2017-2018
 
@@ -31,6 +31,10 @@ Teaching
  
 Selected Conference Presentations
 ======
+* Liu, X., Grise, K. M. Vertically Varying Cloud Responses to Southern Hemisphere Jet Shifts and Their Role in Southern Annular Mode Persistence in Observations and CMIP6 Models, American Geophysical Union Fall Meeting 2024, Dec. 2024, Washington, DC, USA (poster)
+
+* Grise, K. M, Liu, X. Present-Day Model Stationary Wave Biases Impact 21st Century Seasonal Precipitation Projections for the Southwestern United State, American Meteorological Society Annual Meeting 2024, Jan. 2024, Baltimore, MD, USA (oral)
+
 * Liu, X. & Grise, K. M. Implications of warm pool bias in CMIP6 models on the Nothern Hemisphere wintertime subtropical jet and precipitation, DynVar/SNAP workshop, Oct 2023, Munich, Germany (Oral)
 
 * Liu, X. & Grise, K. M. Emergent constraint on future changes of the Northern Hemisphere wintertime subtropical jet, American Geophysical Union Fall Meeting 2022, Dec 2022, Chicago, IL (poster)
@@ -45,6 +49,6 @@ Selected Conference Presentations
  
 Awards
 ======
-* NASA FINESST Fellowship (2022 - 2024; amount: \$100000; 15.7% selection rate)
+* NASA FINESST Fellowship (2022 - 2025; amount: \$100000; 15.7% selection rate)
 * Jay Zieman Research Publication Award (University of Virginia, 2022)
 * Outstanding Undergraduate Exchange Scholarship (China Scholarship Council, 2017 - 2018)
