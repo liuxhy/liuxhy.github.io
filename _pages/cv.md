@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+* Jun 2026 - present: Software Engineer, Dyneti Technologies, Inc., San Mateo, CA
+* Sep 2025 - May 2026: Software Engineer (Intern), IBSS Corporation
+* May 2024 - Aug 2024: Intern, TGS, Houston, TX
+
 Education
 ======
-* Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2019-2025 (expected)
+* Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2019-2025
 * B.S in Atmospheric Sciences, Lanzhou University, 2019
 * Visiting Student in Meteorology, University of Reading, 2017-2018
 

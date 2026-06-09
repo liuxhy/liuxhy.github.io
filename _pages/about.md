@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student at the [University of Virginia](http://www.virginia.edu/) working with [Prof. Kevin Grise](https://uva.theopenscholar.com/kevin-grise/).
+I am a software engineer at Dyneti Technologies, Inc. I received my Ph.D. from the [University of Virginia](http://www.virginia.edu/) where I worked with [Prof. Kevin Grise](https://uva.theopenscholar.com/kevin-grise/).
 
 Prior to joining UVa, I obtained my bachelor degree from the College of Atmospheric Sciences at Lanzhou University and spent my third year in Department of Meteorology at the University of Reading, where I worked closely with [Prof. Keith Shine](https://research.reading.ac.uk/meteorology/people/keith-shine/).
 
