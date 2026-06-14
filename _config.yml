@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinhuiyu Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Xinhuiyu Liu"
-description              : &description "Ph.D. student at UVa"
+description              : &description "Software Engineer in AI/ML"
 url                      : https://liuxhy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuxhy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinhuiyu Liu"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. student in Atmospheric Sciences (2019.8 - current)"
+  bio              : "Software Engineer in AI/ML"
   location         : "Charlottesville, VA"
   employer         :
   pubmed           : 
