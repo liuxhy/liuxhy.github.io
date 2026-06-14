@@ -17,6 +17,7 @@ Work Experience
 
 Education
 ======
+* M.S. in Computer Science, Georgia Institute of Technology, 2022-2026
 * Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2019-2025
 * B.S in Atmospheric Sciences, Lanzhou University, 2019
 * Visiting Student in Meteorology, University of Reading, 2017-2018
