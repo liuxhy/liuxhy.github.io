@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xinhuiyu Liu's Homepage"
 title_separator          : "-"
-name                     : &name "Xinhuiyu Liu"
+name                     : &name "Xinhuiyu (Huiyu) Liu"
 description              : &description "Software Engineer in AI/ML"
 url                      : https://liuxhy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
