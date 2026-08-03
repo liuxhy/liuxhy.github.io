@@ -31,7 +31,7 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
 staticman:
-  allowedFields: ["name", "xl7pd@virginia.edu", "url", "message"]
+  allowedFields: ["name", "email", "url", "message"]
   branch: "gh-pages" # "master", "gh-pages"
   commitMessage: "New comment."
   filename: comment-{@timestamp}
@@ -85,7 +85,7 @@ author:
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=0fies7oAAAAJ&hl=en"
-  email:
+  email: xinhuiyuliu@gmail.com
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -100,7 +100,7 @@ author:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
+  linkedin: xinhuiyu-huiyu-liu
   orcid: "https://orcid.org/0000-0002-6431-8136"
   pinterest:
   soundcloud:
