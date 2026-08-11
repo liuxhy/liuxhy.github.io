@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Software engineer working on backend and geospatial data platforms, with a background in
-large-scale data infrastructure. Based in the San Jose, CA area.
+large-scale data infrastructure.
 
 [Download résumé (PDF)]({{ base_path }}/files/Huiyu_Liu_resume_geospatial_2026.pdf) ·
 [GitHub](https://github.com/liuxhy) ·
