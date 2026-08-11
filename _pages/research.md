@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
+published: false   # retired: content merged elsewhere
 ---
 Vertically Varying Cloud Responses to Southern Hemisphere Jet Shifts and Their Role in Southern Annular Mode Persistence in Observations and CMIP6 Models
 ======

@@ -9,54 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-# Work Experience
+Software engineer working on backend and distributed systems. Based in the San Jose, CA area.
+[Download PDF]({{ base_path }}/files/Huiyu_Liu_Resume_SWE.pdf) ·
+[GitHub](https://github.com/liuxhy) ·
+[LinkedIn](https://www.linkedin.com/in/xinhuiyu-huiyu-liu)
 
-- Jun 2026 - present: Software Engineer, Dyneti Technologies, Inc., San Mateo, CA
-- Sep 2025 - May 2026: Software Engineer (Intern), IBSS Corporation
-- May 2024 - Aug 2024: Intern, TGS, Houston, TX
-
-# Education
-
-- M.S. in Computer Science, Georgia Institute of Technology, 2026
-- Ph.D in Environmental Sciences (Atmospheric Sciences track), University of Virginia, 2025
-- B.S in Atmospheric Sciences, Lanzhou University, 2019
-- Visiting Student in Meteorology, University of Reading, 2017-2018
-
-# Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Education
 ======
-* August 2019 - May 2022: Teaching Assistant, University of Virginia
-  * Lecture teaching assistant: EVSC 3300 Atmosphere and Weather
-  * Instructor of record: EVSC 3301 Atmosphere and Weather Lab
-* Jan 2021: Teaching Assistant, University of Virginia
-  * J-term Course - Pandemics Beyond the Headlines: COVID-19
- 
-Selected Conference Presentations
+
+* **M.S. in Computer Science**, Georgia Institute of Technology — expected Dec 2026
+  * Coursework: Graduate Algorithms (Data Structures & Algorithms), Operating Systems, Software Development Process, Machine Learning, Natural Language Processing
+* **Ph.D. in Environmental Sciences**, University of Virginia — 2025
+* **B.S. in Atmospheric Sciences**, Lanzhou University — 2019
+
+Experience
 ======
-* Liu, X., Grise, K. M. Vertically Varying Cloud Responses to Southern Hemisphere Jet Shifts and Their Role in Southern Annular Mode Persistence in Observations and CMIP6 Models, American Geophysical Union Fall Meeting 2024, Dec. 2024, Washington, DC, USA (poster)
 
-- Grise, K. M, Liu, X. Present-Day Model Stationary Wave Biases Impact 21st Century Seasonal Precipitation Projections for the Southwestern United State, American Meteorological Society Annual Meeting 2024, Jan. 2024, Baltimore, MD, USA (oral)
+**Software Engineer**, Dyneti Technologies — San Mateo, CA · Jun 2026 – Jul 2026
 
-- Liu, X. & Grise, K. M. Implications of warm pool bias in CMIP6 models on the Nothern Hemisphere wintertime subtropical jet and precipitation, DynVar/SNAP workshop, Oct 2023, Munich, Germany (Oral)
+* Designed, developed, tested, and deployed an asynchronous fraud-detection workflow for a credit-card scanning mobile SDK, cutting scan-to-response latency by over 75% by decoupling server-side ML inference from the synchronous scan path
+* Built a server-to-server Fraud Decision API allowing merchant backends to retrieve fraud results precomputed at scan time, eliminating a redundant second scan and query-time inference delay
+* Defined the async lifecycle across a Java/Kotlin Android SDK and Node.js backend, covering API contracts, RDS-backed schemas, inference state transitions, and pending-result handling, while preserving backward compatibility for live partner integrations
+* Owned releases end to end via GitHub Actions CI/CD, pairing automated unit/integration tests with multi-device instrumented tests covering async workflows, failure handling, and edge cases
 
-- Liu, X. & Grise, K. M. Emergent constraint on future changes of the Northern Hemisphere wintertime subtropical jet, American Geophysical Union Fall Meeting 2022, Dec 2022, Chicago, IL (poster)
+**Software Engineer Intern**, IBSS Corp — Remote, US · Sep 2025 – May 2026
 
-- Liu, X., Grise, K. M., Schmidt, D. F., \& Davis, R. E. Regional characteristics of variability in the Northern Hemisphere wintertime polar front jet and subtropical jet in observations and CMIP6 models, 23nd Conference on Atmospheric and Oceanic Fluid Dynamics, June 2022, Breckenridge, CO (poster)
+* Built TerraPrecise, a Python/FastAPI data platform ingesting forecast, station, and terrain data and serving location-specific weather risk products to React/Leaflet frontend clients and alerting workflows
+* Designed the data layer around access patterns: PostgreSQL/PostGIS for subscriber and spatial metadata, TimescaleDB for forecast and observation time series, and S3 for large gridded outputs
+* Deployed a Dockerized microservice architecture on AWS isolating GPU-based downscaling inference from lightweight API and alerting services, with Lambda driving event-driven ingestion
+* Designed a cloud-native geospatial serving layer (eoAPI, STAC, COG, TiTiler) making gridded datasets discoverable, queryable, and servable as scalable map layers
+* Shipped an internal Vertex AI chatbot streamlining HR support workflows, automating its knowledge-base updates with scheduled Cloud Run jobs that sync documents from Google Drive to Cloud Storage with safeguards against accidental deletion
 
-- Liu, X., Grise, K. M., Schmidt, D. F., \& Davis, R. E. Regional characteristics of variability in the Northern Hemisphere wintertime polar front jet and subtropical jet in observations and CMIP6 models, American Geophysical Union Fall Meeting 2021, Dec 2021, New Orleans, LA (eLightning talk)
+**Software Engineer Intern**, TGS — Houston, TX · May 2024 – Aug 2024
 
-- Liu, X. & Grise, K. M. Understanding the processes that control the interannual variability of the Northern Hemisphere wintertime polar front and subtropical jet streams, American Geophysical Union Fall Meeting 2020, Dec 2020, virtual (poster)
+* Built parallel data ingestion and transformation pipelines (Python/Xarray/Dask) on GCP processing 20 TB of simulation and offshore sensor data for a wind-energy analytics platform
+* Cut data processing time 70% by redesigning Zarr and Parquet storage layouts and chunking strategies, letting analytics jobs handle larger datasets within fixed memory limits
 
-- Liu, X. & Zeng, Z. -C. Mapping diurnal aerosol properties in East Asia from Deep Space Climate Observatory, 2019 IEEE International Geoscience and Remote Sensing Symposium, Aug 2019, Yokohama, Japan (oral)
+**PhD Researcher (funded by NASA)**, University of Virginia — Charlottesville, VA · Aug 2019 – May 2025
 
-# Awards
+* Wrote parallel Python pipelines (Xarray/Dask) for ingestion, quality control, and feature extraction across 100+ TB of satellite and model-derived data in Unix/Linux environments
 
-- Best Student Poster Presentation Award (2nd place; American Meteorological Society, 2024)
-- NASA FINESST Fellowship (2022 - 2025; amount: \$100000; 15.7% selection rate)
-- Jay Zieman Research Publication Award (University of Virginia, 2022)
-- Outstanding Undergraduate Exchange Scholarship (China Scholarship Council, 2017 - 2018)
+Projects
+======
+
+See [Projects]({{ base_path }}/projects/) for detail.
+
+* **Synchronized Distributed File System** — gRPC-based DFS in C++ with whole-file caching, CRC32 diffing, timestamp-based conflict resolution, server-side writer locks, and mutex-guarded concurrent client sessions
+* **Multi-Agent Travel Planner** — eight Google ADK agents composed into a sequential pipeline with a bounded critic-refiner loop that validates and repairs itineraries before export
+* **Expenses Tracker** — full-stack MERN application with JWT auth, deployed to AWS EC2
+
+Skills
+======
+
+* **Languages:** Python, C++, Java, Kotlin, JavaScript/TypeScript, SQL
+* **Distributed & Systems:** gRPC, Protobuf, concurrency (pthreads, mutexes), Dask, Docker, Unix/Linux
+* **Backend & Web/Mobile:** Node.js, Express, FastAPI, React, Android SDK, REST APIs
+* **Cloud & Tooling:** AWS (EC2, S3, Lambda, RDS), GCP (Vertex AI, Cloud Run, GCS), GitHub Actions CI/CD, Git, Claude Code
+* **Data & ML:** PostgreSQL, PostGIS, TimescaleDB, Xarray, Parquet, Zarr, PyTorch, scikit-learn, production ML inference
+
+---
+
+<sub>For publications, teaching, conference presentations, and my academic CV, see the [academic archive]({{ base_path }}/academic/).</sub>

@@ -2,6 +2,7 @@
 title: "Expenses Tracker"
 excerpt: "Full-stack web app for tracking personal finances with JWT auth, expense categories, and interactive charts."
 collection: portfolio
+published: false   # retired: content merged elsewhere
 ---
 
 A full-stack personal finance app with user authentication, income/expense tracking by category, and Chart.js visualizations.

@@ -2,6 +2,7 @@
 title: "Real-Time Cat vs. Dog Classifier"
 excerpt: "Webcam-based image classifier using a TFLite model served via Flask, with SQLite prediction logging."
 collection: portfolio
+published: false   # retired: content merged elsewhere
 ---
 
 A lightweight web app that runs real-time cat/dog classification on webcam frames in the browser. Frames are sent to a Flask backend, classified by a TFLite model, and results are logged to a SQLite database.

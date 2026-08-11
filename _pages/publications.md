@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+published: false   # retired: content merged elsewhere
 ---
 
 {% if author.googlescholar %}

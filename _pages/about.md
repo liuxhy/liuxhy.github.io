@@ -8,8 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at [Dyneti Technologies, Inc.](https://dyneti.com/), where I build machine learning and computer vision systems for fraud detection and card scanning on mobile and web platforms.
+{% include base_path %}
 
-I completed my Ph.D. in Climate Sciences at the [University of Virginia](http://www.virginia.edu/), advised by [Prof. Kevin Grise](https://uva.theopenscholar.com/kevin-grise/). My doctoral research centered on large-scale atmospheric dynamics and cloud–circulation interactions, with a focus on [understanding the mechanisms driving jet stream variability](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021JD034876), [constraining uncertainty in future climate projections](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL104896), and [examining the impacts of atmospheric cloud radiative effects on Southern Hemisphere circulation variability in CMIP6 models](https://doi.org/10.1029/2024GL114550). I also developed a strong interest in machine learning and causal discovery as tools for climate science.
+I am a software engineer working on backend and distributed systems, with a background in large-scale data infrastructure.
 
-Prior to UVa, I earned my bachelor's degree in Atmospheric Sciences from Lanzhou University and spent my third year at the Department of Meteorology, University of Reading, where I worked with [Prof. Keith Shine](https://research.reading.ac.uk/meteorology/people/keith-shine/).
+Most recently I was a Software Engineer at [Dyneti Technologies](https://dyneti.com/), where I built an end-to-end asynchronous fraud-detection workflow for a credit-card scanning mobile SDK — moving ML inference off the synchronous scan path cut scan-to-response latency by over 75%. Before that I built TerraPrecise, a Python/FastAPI weather-risk data platform on AWS, designing its storage layer across PostgreSQL/PostGIS, TimescaleDB, and S3 by access pattern, and a containerized microservice architecture isolating GPU inference from the lightweight API and alerting services in front of it.
+
+I came to software engineering from research. I completed my Ph.D. at the [University of Virginia](http://www.virginia.edu/), where I spent six years writing parallel Python pipelines over 100+ TB of satellite and model data to study large-scale atmospheric dynamics. That is where I learned that most of the interesting problems are systems problems — and it is why I tend to reach for questions about data layout, failure modes, and where the boundaries between services should go.
+
+I am currently finishing an M.S. in Computer Science at Georgia Tech (December 2026) and looking for software engineering roles.
+
+**Elsewhere:** [Projects]({{ base_path }}/projects/) · [CV]({{ base_path }}/cv/) · [GitHub](https://github.com/liuxhy) · [LinkedIn](https://www.linkedin.com/in/xinhuiyu-huiyu-liu)
+
+<sub>My doctoral research was in climate science, advised by [Prof. Kevin Grise](https://uva.theopenscholar.com/kevin-grise/), and produced peer-reviewed work on jet stream variability and cloud–circulation interactions. Publications, research summaries, and my academic CV are archived [here]({{ base_path }}/academic/).</sub>
