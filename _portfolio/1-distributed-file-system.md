@@ -8,7 +8,7 @@ A distributed file system that keeps a directory synchronized across multiple cl
 central server, built in C++ on gRPC.
 
 **Consistency model.** Whole-file caching with single-writer semantics. Clients detect local
-changes with CRC32 diffing and resolve conflicts by comparing modification timestamps, so a
+changes with CRC32 checksums and resolve conflicts by comparing modification timestamps, so a
 stale client never overwrites a newer version on the server.
 
 **Synchronization.** The server holds per-file writer locks and propagates deletions through
