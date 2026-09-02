@@ -12,7 +12,7 @@ redirect_from:
 Software engineer working on backend and geospatial data platforms, with a background in
 large-scale data infrastructure.
 
-[Download résumé (PDF)]({{ base_path }}/files/Huiyu_Liu_resume_geospatial_2026.pdf) ·
+[Download résumé (PDF)]({{ base_path }}/files/Huiyu_Liu_resume_Geospatial.pdf) ·
 [GitHub](https://github.com/liuxhy) ·
 [LinkedIn](https://www.linkedin.com/in/xinhuiyu-huiyu-liu) ·
 [Google Scholar](https://scholar.google.com/citations?user=0fies7oAAAAJ&hl=en)
